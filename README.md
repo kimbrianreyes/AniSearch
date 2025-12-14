@@ -164,6 +164,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Lucide Icons](https://lucide.dev/) for the icon set
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
 
----
 
-Made with ❤️ for anime lovers everywhere
